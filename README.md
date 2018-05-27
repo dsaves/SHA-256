@@ -29,12 +29,3 @@ SOFTWARE.
 # VHDL
  - The VHDL files assume you are compiling entities to a library named "dsaves".
  This was done to avoid naming collisions. Because libraries in VHDL are a virtual construct, you may have to work with other software you are using (eg. Modelsim, QuestaSim, Xilinx ISE, etc) to create the library "dsaves" and compile the design units to that library.  Alternatively, you can change the "dsaves" library to "work".
-
- 
-# Contributions
-If you would like to contribute hardware modifications to this project, clone the
-repo, make your edits, and send me a pull request.  Any bug spotting is appreciated.
-
-
-# Contact
-Danny: dronin227@gmail.com
